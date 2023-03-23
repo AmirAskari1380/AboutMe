@@ -1,4 +1,5 @@
 # Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="33px" height="33px">, I'm<a href="https://github.com/AmirAskari1380/"> Amir Askari </a>
+![gitartwork](gitartwork.svg)
 **I'm Amir**. A passionate junior bug hunter, who is also into coding
 - 🚀 I’m currently working on **Bug Hunting**
 - 🌱 I’m currently learning about **Web App Security**
@@ -10,6 +11,7 @@
 ![](https://img.shields.io/badge/Composer-554530?style=for-the-badge&logo=composer&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F0DC4E?style=for-the-badge&logo=javascript&logoColor=000000)
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/jQuery-0868AB?style=for-the-badge&logo=jquery&logoColor=white)
 ![](https://img.shields.io/badge/Express-F0DC4E?style=for-the-badge&logo=express&logoColor=000000)
 ![](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
 ![](https://img.shields.io/badge/NPM-CC3534?style=for-the-badge&logo=npm&logoColor=white)
@@ -27,6 +29,7 @@
 ![](https://img.shields.io/badge/Git-F03C2E?style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/Gulp-EB4A4B?style=for-the-badge&logo=gulp&logoColor=white)
 ![](https://img.shields.io/badge/PostMan-FF6C38?style=for-the-badge&logo=postman&logoColor=white)
+
 
 ### 📫 Contact Me
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/TheMightyAmir)](https://twitter.com/TheMightyAmir)
