@@ -1,5 +1,4 @@
 # Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="33px" height="33px">, I'm<a href="https://github.com/AmirAskari1380/"> Amir Askari </a>
-![gitartwork](gitartwork.svg)
 **I'm Amir**. A passionate junior bug hunter, who is also into coding
 - 🚀 I’m currently working on **Bug Hunting**
 - 🌱 I’m currently learning about **Web App Security**
@@ -29,8 +28,6 @@
 ![](https://img.shields.io/badge/Git-F03C2E?style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/Gulp-EB4A4B?style=for-the-badge&logo=gulp&logoColor=white)
 ![](https://img.shields.io/badge/PostMan-FF6C38?style=for-the-badge&logo=postman&logoColor=white)
-
-
 ### 📫 Contact Me
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/TheMightyAmir)](https://twitter.com/TheMightyAmir)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/askari.1380/)](https://www.instagram.com/askari.1380)
